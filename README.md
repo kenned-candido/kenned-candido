@@ -13,7 +13,6 @@
 
 ### Main Skills:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&color=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&color=0D1117)&nbsp;
 
 ### Tools:
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117&color=0D1117)&nbsp;
