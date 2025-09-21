@@ -5,7 +5,7 @@
 <div align="center">
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenned-candido&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true&title_color=B7A99A&icon_color=B7A99A&text_color=8C9094&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenned-candido&layout=compact&hide_border=true&hide_title=true&text_color=8C9095&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenned-candido&layout=compact&hide_border=true&hide_title=true&text_color=8C9094&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
 [![Naereen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kenned-candido&bg_color=0D1117&color=B7A99A&line=3E444A&point=8C9094&area=false&hide_border=true&hide_title=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
